@@ -45,5 +45,14 @@ const tabPackageAirValues = {
       colorEn: "star",
     },
   ],
+  infoBoxList: [
+    { text: "M2칩 탑재로 엄청난 속도와 막강 퍼포먼스 구현" },
+    { text: "40% 더 빠른 Neural Engine으로 강력한 AI" },
+    { text: "반사 방지 코팅과 True Tone 기술로 눈이 편안한 화면" },
+    { text: "P3의 넓은 색영역으로 이미지를 더욱 생생하게" },
+    { text: "넉넉한 배터리로 최대 10시간까지 강의 시청 가능" },
+    { text: "스테이지 매니저 기능으로 새로운 방식의 멀티태스킹까지" },
+    { text: "가로 방향 스테레오 스피커로 2배 더 깊은 저음" },
+  ],
 };
 export default tabPackageAirValues;
